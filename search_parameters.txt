@@ -1,0 +1,22 @@
+SEARCH PARAMETERS
+=================
+Database: NCBI non-redundant protein sequences (nr)
+Program: BLASTP (protein-protein BLAST)
+Query: NP_000509.1, human hemoglobin subunit beta
+Query length: 147 amino acids
+Maximum target sequences: 100
+Expect threshold: 10 (default shown in the archived example)
+Word size: 3
+Substitution matrix: BLOSUM62
+Gap costs: Existence 11; Extension 1
+Low-complexity filtering: unchecked in the archived example
+Organism filter: none
+Entrez query: none
+
+PROVENANCE
+----------
+The settings and hit values were transcribed from the BLASTP teaching example
+in the UC San Diego BIMM 143 Lecture 2 material (see docs/sources.md).
+This is an archived example result, not a newly submitted live search.
+NCBI search page for reproducing the analysis:
+https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastp

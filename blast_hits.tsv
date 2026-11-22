@@ -1,0 +1,11 @@
+Rank	Description	Accession	Max_score_bits	Query_cover_percent	E_value	Percent_identity	Interpretation
+1	hemoglobin beta [synthetic construct]	AAX37051.1	301	100	9e-103	100	Exact beta-globin sequence match; synthetic construct record
+2	hemoglobin beta [synthetic construct]	AAX29557.1	301	100	1e-102	100	Exact beta-globin sequence match; synthetic construct record
+3	hemoglobin subunit beta [Homo sapiens]	NP_000509.1	301	100	1e-102	100	Reference query record; exact self-match
+4	Hemoglobin subunit beta (beta-globin; gorilla)	P02024.2	300	100	4e-102	99	Closely related primate beta-globin; 146/147 identities in the detailed alignment
+5	beta globin chain variant [Homo sapiens]	AAN84548.1	299	100	5e-102	99	Human beta-globin variant; near-identical full-length match
+6	beta globin [Homo sapiens]	AAZ39780.1	299	100	5e-102	99	Human beta-globin sequence; near-identical full-length match
+7	beta-globin [Homo sapiens]	ACU56984.1	299	100	5e-102	99	Human beta-globin sequence; near-identical full-length match
+8	hemoglobin beta chain [Homo sapiens]	AAD19696.1	299	100	6e-102	99	Human beta-globin sequence; near-identical full-length match
+9	Chain B, deoxy human hemoglobin structure	1COH_B	298	99	9e-102	100	Structural database chain corresponding to hemoglobin beta; near-full-length match
+10	hemoglobin beta subunit variant [Homo sapiens]	AAF00489.1	298	100	1e-101	99	Human beta-globin variant; near-identical full-length match
